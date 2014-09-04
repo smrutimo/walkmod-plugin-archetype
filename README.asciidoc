@@ -1,0 +1,11 @@
+walkmod-plugin-archetype
+========================
+
+Maven Archetype project to create a copy of walkmod-foo-plugin as a base for creating your own walkmod plugin.
+
+=== Usage
+* Please try to name the artifactId as walkmod-xyz-plugin, where xyz can be anything of your choice. This is to ensure that the file generated under META-INF/walkmod folder follows the convention of walkmod-xyz-plugin.xml
+* If for any reason you do want to go with a naming convention different from the one mentioned above, please update the filename under META-INF/walkmod folder appropriately.
+
+
+
